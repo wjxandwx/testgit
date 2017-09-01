@@ -1,3 +1,4 @@
+//注意
 #include "data.h"
 node *head=NULL;
 void addStu(int id,char *name,int age)
